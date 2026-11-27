@@ -1,0 +1,9 @@
+# PyCharm 项目配置
+.idea/
+
+# 工作记录
+.workbuddy/
+
+# Python 缓存
+__pycache__/
+*.pyc
